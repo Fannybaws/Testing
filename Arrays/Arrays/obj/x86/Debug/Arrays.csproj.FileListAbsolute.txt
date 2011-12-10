@@ -1,0 +1,9 @@
+d:\_spike_documents\visual studio 2010\Projects\Arrays\Arrays\bin\Debug\Arrays.exe
+d:\_spike_documents\visual studio 2010\Projects\Arrays\Arrays\bin\Debug\Arrays.pdb
+d:\_spike_documents\visual studio 2010\Projects\Arrays\Arrays\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\_spike_documents\visual studio 2010\Projects\Arrays\Arrays\obj\x86\Debug\Arrays.Form1.resources
+d:\_spike_documents\visual studio 2010\Projects\Arrays\Arrays\obj\x86\Debug\Arrays.Properties.Resources.resources
+d:\_spike_documents\visual studio 2010\Projects\Arrays\Arrays\obj\x86\Debug\GenerateResource.read.1.tlog
+d:\_spike_documents\visual studio 2010\Projects\Arrays\Arrays\obj\x86\Debug\GenerateResource.write.1.tlog
+d:\_spike_documents\visual studio 2010\Projects\Arrays\Arrays\obj\x86\Debug\Arrays.exe
+d:\_spike_documents\visual studio 2010\Projects\Arrays\Arrays\obj\x86\Debug\Arrays.pdb
