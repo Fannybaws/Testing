@@ -1,0 +1,18 @@
+C:\Users\stewartorr\AppData\Local\Temporary Projects\Browser\bin\Debug\Browser.exe
+C:\Users\stewartorr\AppData\Local\Temporary Projects\Browser\bin\Debug\Browser.pdb
+C:\Users\stewartorr\AppData\Local\Temporary Projects\Browser\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\stewartorr\AppData\Local\Temporary Projects\Browser\obj\x86\Debug\Browser.Form1.resources
+C:\Users\stewartorr\AppData\Local\Temporary Projects\Browser\obj\x86\Debug\Browser.Properties.Resources.resources
+C:\Users\stewartorr\AppData\Local\Temporary Projects\Browser\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\stewartorr\AppData\Local\Temporary Projects\Browser\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\stewartorr\AppData\Local\Temporary Projects\Browser\obj\x86\Debug\Browser.exe
+C:\Users\stewartorr\AppData\Local\Temporary Projects\Browser\obj\x86\Debug\Browser.pdb
+d:\_spike_documents\visual studio 2010\Projects\Browser\Browser\obj\x86\Debug\Browser.exe
+d:\_spike_documents\visual studio 2010\Projects\Browser\Browser\obj\x86\Debug\Browser.pdb
+d:\_spike_documents\visual studio 2010\Projects\Browser\Browser\bin\Debug\Browser.exe
+d:\_spike_documents\visual studio 2010\Projects\Browser\Browser\bin\Debug\Browser.pdb
+d:\_spike_documents\visual studio 2010\Projects\Browser\Browser\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\_spike_documents\visual studio 2010\Projects\Browser\Browser\obj\x86\Debug\Browser.Form1.resources
+d:\_spike_documents\visual studio 2010\Projects\Browser\Browser\obj\x86\Debug\Browser.Properties.Resources.resources
+d:\_spike_documents\visual studio 2010\Projects\Browser\Browser\obj\x86\Debug\GenerateResource.read.1.tlog
+d:\_spike_documents\visual studio 2010\Projects\Browser\Browser\obj\x86\Debug\GenerateResource.write.1.tlog
