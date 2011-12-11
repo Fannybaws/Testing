@@ -1,0 +1,9 @@
+C:\Users\Spike\documents\visual studio 2010\Projects\Maze\Maze\bin\Debug\Maze.exe
+C:\Users\Spike\documents\visual studio 2010\Projects\Maze\Maze\bin\Debug\Maze.pdb
+C:\Users\Spike\documents\visual studio 2010\Projects\Maze\Maze\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Spike\documents\visual studio 2010\Projects\Maze\Maze\obj\x86\Debug\Maze.Form1.resources
+C:\Users\Spike\documents\visual studio 2010\Projects\Maze\Maze\obj\x86\Debug\Maze.Properties.Resources.resources
+C:\Users\Spike\documents\visual studio 2010\Projects\Maze\Maze\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Spike\documents\visual studio 2010\Projects\Maze\Maze\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Spike\documents\visual studio 2010\Projects\Maze\Maze\obj\x86\Debug\Maze.exe
+C:\Users\Spike\documents\visual studio 2010\Projects\Maze\Maze\obj\x86\Debug\Maze.pdb
